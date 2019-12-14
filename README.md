@@ -8,4 +8,5 @@ In this project, we'll work with data from the [CIA World Factbook](https://www.
 
 We are using SQLite database called factbook.db from this [GitHub repo](https://github.com/factbook/factbook.sql/releases). In this project, we'll explore the Python SQLite workflow to explore, analyze, and visualize data from this database. First things first, let's get familiar with the database.
 
-## Please check the ipython file with all the commnets an dmarkdown information step by step. 
+## Please check the ipython file with all the python code, results and markdown information step by step. 
+<font color=blue|red|green|pink|yellow>## Please check the ipython file with all the python code, results and markdown information step by step. </font>
