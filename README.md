@@ -10,3 +10,4 @@ We are using SQLite database called factbook.db from this [GitHub repo](https://
 
 ## Please check the ipython file with all the python code, results and markdown information step by step. 
 <font color=red## Please check the ipython file with all the python code, results and markdown information step by step. </font>
+<font color=blue|>Text</font>
